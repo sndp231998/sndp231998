@@ -1,24 +1,80 @@
-# 💫 About Me:
-Hi, I’m Sandip Chapagain — Founder & Backend Lead at A1 IT Innovation, based in Kathmandu, Nepal 🌏. I’m a pro-level Backend Engineer & DevOps Architect, passionate about building secure, scalable, and future-proof systems for web, mobile, and AI projects.<br><br>💻 Backend Mastery<br>⚡ Expert in Java, Spring Boot, REST APIs<br><br>🛠️ Advanced exception handling, controller design, DTO/entity mapping<br><br>🔍 Production-grade error tracing, log correlation, distributed debugging<br><br>🏗️ Designing high-performance architectures with reliability and maintainability at the core<br><br>⚙️ DevOps & Infrastructure Pro<br>🐳 Docker & Kubernetes orchestration for multi-instance deployments<br><br>🔄 CI/CD pipelines with Jenkins, GitHub Actions, reproducible scripting<br><br>⚖️ Load balancing, scaling, zero-downtime rolling updates<br><br>🌐 Nginx Proxy Manager, SSL, DNS propagation for secure exposure<br><br>🛡️ Disaster recovery & failover systems with phased rollouts and fallback strategies<br><br>🔒 Advanced networking, firewall rules, SSH tunneling, safe port management<br><br>🧭 Leadership<br>🚀 Driving technical growth, compliance, and strategic direction<br><br>📑 Empowering teams with clear documentation, cheat sheets, and best-practice workflows<br><br>🤝 Hands-on leadership style: balancing safety, clarity, and innovation<br><br>🔍 Ops & Debugging<br>📊 Advanced log analysis, error tracing, and clustered container debugging<br><br>🛠️ Infrastructure debugging with Docker Compose, container healthchecks, internal DNS<br><br>🧩 Emergency ops: cron, inotify, rsync, systemd, manual file transfer<br><br>🌱 Exploring<br>🔧 Scalable frontend state management with Redux Toolkit & RTK Query for rideshare apps<br><br>📈 Continuous learning in backend, cloud, and deployment automation<br><br>🛡️ Security-first architecture & automated workflows for error detection<br><br>💡 My mission: to engineer systems that are fast, reliable, and secure — empowering teams with automation, clarity, and confidence.
+# Hi, I'm Sandip Chapagain 👋
 
+**Backend & DevOps engineer for startups.** I design, build and run production systems end to end: Java/Spring Boot microservices, event-driven architecture, Kubernetes, and Flutter mobile apps.
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/sndp.com.np) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sandip-chapagain) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sandipchapagain797@gmail.com) 
+CTO of **Tufan** (ride-sharing, Nepal) · CTO of **KRYZOX**, **GigFine** and **GigsRentals** · Founder of **[A1 IT Innovation](https://www.a1itinnovation.com.np)**
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=sndp231998&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=sndp231998&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=sndp231998&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=sndp231998&theme=dark&no-frame=true&no-bg=true&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+📍 Kathmandu, Nepal · 🌍 Working remotely with teams worldwide
 
 ---
-[![](https://visitcount.itsvg.in/api?id=sndp231998&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🚀 What I've built (in production)
+
+| Product | What it is | My role |
+|---|---|---|
+| **Tufan** | Ride-sharing & delivery: car, comfort, bike, scheduled rides, cargo and parcel, free in-app calls, smart safety system | CTO: architecture, backend, infra, Flutter apps |
+| **KRYZOX** | Esports tournament platform for PUBG Mobile, BGMI and Free Fire with entry fees and prize money | CTO |
+| **GigFine** | Platform to report problems with ride-sharing and delivery apps in Nepal | CTO |
+| **GigsRentals** | Rental marketplace for cars, bikes and houses | CTO |
+| **T-Meet** | White-label video conferencing for online classes and meetings | Built and deployed |
+| **A1 Scanner** | Offline document scanner app | Product owner |
+
+## 🏗️ System design: real-time ride dispatch (Tufan)
+
+```mermaid
+flowchart LR
+    A[Rider / Driver apps<br/>Flutter] -->|REST + WebSocket| G[API Gateway<br/>Spring Cloud Gateway + JWT]
+    G --> U[User Service]
+    G --> R[Ride Request Service]
+    G --> P[Payment Service<br/>Khalti / eSewa]
+    U -->|live location| RD[(Redis GEO)]
+    R -->|find riders within 3 km| RD
+    R -->|ride events| K[[Kafka]]
+    K -->|replay on reconnect| R
+    R -->|instant offers| MQ[[RabbitMQ STOMP]]
+    MQ -->|push| A
+```
+
+- **Redis GEO** keeps live rider locations, so nearby riders are found in milliseconds
+- **Kafka** stores ride events durably; a rider who lost network gets the offer again on reconnect
+- **RabbitMQ (STOMP/WebSocket)** pushes offers instantly; once one rider accepts, the offer is cleared for everyone else
+- **Self-hosted maps** (OSRM, Nominatim, Valhalla) with zero-downtime blue-green data refresh
+
+## ⚙️ How I ship
+
+- **Kubernetes** on VPS (kubeadm, containerd, Flannel), multi-node, one cluster per product
+- **GitOps** with ArgoCD · **CI/CD** with Jenkins (cut deploy time from ~30 min to ~3 min)
+- **Observability** with Prometheus, Grafana and Loki
+- **Edge**: Cloudflare, cert-manager, Nginx
+
+## 🧰 Stack
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Argo CD](https://img.shields.io/badge/Argo_CD-EF7B4D?style=flat-square&logo=argo&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+
+## 🤝 Work with me
+
+I help startups and product teams to:
+
+- Build or scale a **Spring Boot / microservices backend**
+- Set up or fix **Kubernetes, Docker and CI/CD**
+- Build **cross-platform mobile apps** with Flutter
+- Launch a **white-label ride-sharing, delivery or video-conferencing platform** in weeks, not months
+
+Most client code is private, so I'm happy to walk you through architecture and live demos on a call.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sandip-chapagain)
+[![Website](https://img.shields.io/badge/a1itinnovation.com.np-4F46E5?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.a1itinnovation.com.np)
+[![Email](https://img.shields.io/badge/info@a1itinnovation.com.np-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:info@a1itinnovation.com.np)
